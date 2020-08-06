@@ -1,2 +1,2 @@
 # MySQL_Aula
-Repositório de exercícios em MySQL
+Repositório criado para organização dos exercícios e Scripts de estudos MySQL
